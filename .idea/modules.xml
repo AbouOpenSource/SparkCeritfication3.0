@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BasicScala.iml" filepath="$PROJECT_DIR$/.idea/modules/BasicScala.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BasicScala-build.iml" filepath="$PROJECT_DIR$/.idea/modules/BasicScala-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/basicscala.iml" filepath="$PROJECT_DIR$/.idea/modules/basicscala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/basicscala-build.iml" filepath="$PROJECT_DIR$/.idea/modules/basicscala-build.iml" />
     </modules>
   </component>
 </project>
